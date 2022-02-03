@@ -1,5 +1,5 @@
 class Fizzbuzz
-    def next_number
+    def convert_number(number)
         2
     end
 end
